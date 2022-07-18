@@ -1,0 +1,20 @@
+buildscript {
+    repositories {
+        // Check that you have the following line (if not, add it):
+        google()
+        jcenter()// Google's Maven repository
+
+    }
+    dependencies {
+
+        // Add this line
+        classpath 'com.android.tools.build:gradle:7.2.1'
+        classpath 'com.google.gms:google-services:4.3.13'
+
+    }
+}
+
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlappyQuiz</string>
+
+    <string name="Facebook"><a href="https://www.facebook.com/alarberttt">Facebook</a></string>
+    <string name="Twitter"><a href="https://twitter.com/alarbertramirez">Twitter</a></string>
+    <string name="Instagram"><a href="https://www.instagram.com/alarbertramirez1/?hl=en">Instagram</a></string>
+</resources>
