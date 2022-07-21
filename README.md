@@ -25,7 +25,7 @@ Click the link to watch :
 
 ## Researcher/Developer:
 * Mave Rick Tena
-* Alarbert raRmirez
+* Alarbert Ramirez
 * John Henry Gotia
 * Mary Rose Ofiana
 
